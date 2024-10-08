@@ -1,1 +1,1 @@
-web: gunicorn rcd_oscar2.wsgi
+web: gunicorn rcd-shop.wsgi
