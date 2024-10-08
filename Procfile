@@ -1,1 +1,1 @@
-web: gunicorn oscar.wsgi
+web: gunicorn sandbox.wsgi
